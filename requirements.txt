@@ -1,0 +1,3 @@
+Kivy~=2.3.0rc3
+wikipedia~=1.4.0
+requests~=2.31.0
